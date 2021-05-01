@@ -13,7 +13,7 @@ body {
 	border: 0;
 }
 #logo-img{
-	background: url('D:/html/bootstrap/swosti.jpeg') no-repeat;
+	background: url('swosti.jpeg') no-repeat;
 	width: 150px;
 	height: 150px;
 	margin: 10px 15px 10px 0;
@@ -97,11 +97,11 @@ margin-top: -30px;}
 	box-shadow: 0 1px 5px 1px black;
 }
 #menu-tile {
-	background: url(D:/html/bootstrap/menu.JPG) no-repeat;
+	background: url('menu.JPG') no-repeat;
 	background-position: center;
 }
 #special-tile {
-	background: url(D:/html/bootstrap/special.JPG) no-repeat;
+	background: url('special.JPG') no-repeat;
 	background-position: center;
 }
 #menu-tile span, #special-tile span, #map-tile span{
@@ -118,7 +118,7 @@ margin-top: -30px;}
 }
 
 @media (min-width: 1200px){
-	.jumbotron{background: url('D:/html/bootstrap/swosti large.JPG') no-repeat;
+	.jumbotron{background: url('swosti large.JPG') no-repeat;
     height: 675px;
     box-shadow: 0 0 50px #3F0C1F;
     border: 2px solid #3F0C1F;
@@ -126,19 +126,19 @@ margin-top: -30px;}
 }
 @media (min-width: 992px) and (max-width: 1199px){
 	#logo-img{
-	background: url('D:/html/bootstrap/swosti.jpeg') no-repeat;
+	background: url('swosti.jpeg') no-repeat;
 	width: 100px;
 	height: 100px;
 	margin: 5px 5px 5px 0;}
 
-	.jumbotron {background: url('D:/html/bootstrap/swosti mid.JPG') no-repeat;
+	.jumbotron {background: url('swosti mid.JPG') no-repeat;
     height: 558px;
     box-shadow: 0 0 50px #3F0C1F;
     border: 2px solid #3F0C1F;
 	}
 }
 @media (min-width: 768px) and (max-width: 991px){
-	.jumbotron{background: url('D:/html/bootstrap/swosti sm.JPG') no-repeat;
+	.jumbotron{background: url('swosti sm.JPG') no-repeat;
     height: 432px;
     box-shadow: 0 0 50px #3F0C1F;
     border: 2px solid #3F0C1F;}  
