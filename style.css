@@ -97,11 +97,11 @@ margin-top: -30px;}
 	box-shadow: 0 1px 5px 1px black;
 }
 #menu-tile {
-	background: url('menu.JPG') no-repeat;
+	background: url('menu.jpg') no-repeat;
 	background-position: center;
 }
 #special-tile {
-	background: url('special.JPG') no-repeat;
+	background: url('special.jpg') no-repeat;
 	background-position: center;
 }
 #menu-tile span, #special-tile span, #map-tile span{
@@ -118,7 +118,7 @@ margin-top: -30px;}
 }
 
 @media (min-width: 1200px){
-	.jumbotron{background: url('swosti large.JPG') no-repeat;
+	.jumbotron{background: url('swosti large.jpg') no-repeat;
     height: 675px;
     box-shadow: 0 0 50px #3F0C1F;
     border: 2px solid #3F0C1F;
@@ -131,14 +131,14 @@ margin-top: -30px;}
 	height: 100px;
 	margin: 5px 5px 5px 0;}
 
-	.jumbotron {background: url('swosti mid.JPG') no-repeat;
+	.jumbotron {background: url('swosti mid.jpg') no-repeat;
     height: 558px;
     box-shadow: 0 0 50px #3F0C1F;
     border: 2px solid #3F0C1F;
 	}
 }
 @media (min-width: 768px) and (max-width: 991px){
-	.jumbotron{background: url('swosti sm.JPG') no-repeat;
+	.jumbotron{background: url('swosti sm.jpg') no-repeat;
     height: 432px;
     box-shadow: 0 0 50px #3F0C1F;
     border: 2px solid #3F0C1F;}  
